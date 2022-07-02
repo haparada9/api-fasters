@@ -44,19 +44,11 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Route to be entered
+> localhost:3000/rio+de+janeiro || localhost:3000/rio de janeiro <br>
+> localhost:3000/sao+paulo || localhost:3000/sao paulo
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+- AS CIDADES QUE TEM MAIS DE 1 PALAVRA DEVEM SER ESCRITAS COM O SINAL DE "+" OU NORMAL COM ESPAÇO. 
 
 ## Support
 
